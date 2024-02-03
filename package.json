@@ -24,6 +24,7 @@
     "ai": "^2.2.33",
     "clsx": "^2.1.0",
     "lucide-react": "^0.316.0",
+    "messages": "link:openai/resources/beta/threads/messages/messages",
     "next": "^14.1.0",
     "next-pwa": "^5.6.0",
     "next-seo": "^6.4.0",

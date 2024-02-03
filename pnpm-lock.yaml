@@ -14,6 +14,9 @@ dependencies:
   lucide-react:
     specifier: ^0.316.0
     version: 0.316.0(react@18.2.0)
+  messages:
+    specifier: link:openai/resources/beta/threads/messages/messages
+    version: link:openai/resources/beta/threads/messages/messages
   next:
     specifier: ^14.1.0
     version: 14.1.0(@babel/core@7.23.9)(react-dom@18.2.0)(react@18.2.0)
